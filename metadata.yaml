@@ -1,0 +1,26 @@
+_repo: Neugesammelte-Volkssagen-aus-dem-Lande-Baden-und-den-angrenzenden-Gegenden_27206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Baader, Bernhard
+    gutenberg_agent_id: '32541'
+    url: http://www.gutenberg.org/2009/agents/32541
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27206'
+  lccn: '43034545'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Germany -- Baden'
+- !lcc 'PT'
+title: Neugesammelte Volkssagen aus dem Lande Baden und den angrenzenden Gegenden
+url: http://www.gutenberg.org/ebooks/27206
