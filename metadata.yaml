@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32541'
     url: http://www.gutenberg.org/2009/agents/32541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27206#Neugesammelte-Volkssagen-aus-dem-Lande-Baden-und-den-angrenzenden-Gegenden
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2008-11-09'
 gutenberg_type: Text
